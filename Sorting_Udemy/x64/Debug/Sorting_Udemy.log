@@ -1,0 +1,6 @@
+﻿  Node.cpp
+  SortingFunctions.cpp
+  Sorting_Algorithms.cpp
+C:\Users\celil.orak\Documents\repositeries\sorting-algorithms\Sorting_Udemy\Sorting_Algorithms.cpp(9,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Sorting_Udemy.vcxproj -> C:\Users\celil.orak\Documents\repositeries\sorting-algorithms\x64\Debug\Sorting_Udemy.exe
